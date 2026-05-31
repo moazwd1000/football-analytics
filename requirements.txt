@@ -1,0 +1,11 @@
+inference==1.2.9
+matplotlib==3.10.9
+networkx==3.6.1
+numpy==2.4.6
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+opencv_python_headless==4.13.0.92
+scikit_learn==1.8.0
+sports==0.1.0
+supervision==0.28.0
+ultralytics==8.4.51
