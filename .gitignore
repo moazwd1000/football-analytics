@@ -1,0 +1,23 @@
+# Model weights (too large for GitHub)
+models/
+*.pt
+*.pth
+
+# Data (videos, images — too large)
+data/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.eggs/
+*.egg-info/
+
+# VS Code
+.vscode/
